@@ -1,0 +1,30 @@
+C:\Users\toshiba\source\repos\KartOyunu\KartOyunu\bin\Debug\net6.0\KartOyunu.exe
+C:\Users\toshiba\source\repos\KartOyunu\KartOyunu\bin\Debug\net6.0\KartOyunu.deps.json
+C:\Users\toshiba\source\repos\KartOyunu\KartOyunu\bin\Debug\net6.0\KartOyunu.runtimeconfig.json
+C:\Users\toshiba\source\repos\KartOyunu\KartOyunu\bin\Debug\net6.0\KartOyunu.dll
+C:\Users\toshiba\source\repos\KartOyunu\KartOyunu\bin\Debug\net6.0\KartOyunu.pdb
+C:\Users\toshiba\source\repos\KartOyunu\KartOyunu\obj\Debug\net6.0\KartOyunu.csproj.AssemblyReference.cache
+C:\Users\toshiba\source\repos\KartOyunu\KartOyunu\obj\Debug\net6.0\KartOyunu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toshiba\source\repos\KartOyunu\KartOyunu\obj\Debug\net6.0\KartOyunu.AssemblyInfoInputs.cache
+C:\Users\toshiba\source\repos\KartOyunu\KartOyunu\obj\Debug\net6.0\KartOyunu.AssemblyInfo.cs
+C:\Users\toshiba\source\repos\KartOyunu\KartOyunu\obj\Debug\net6.0\KartOyunu.csproj.CoreCompileInputs.cache
+C:\Users\toshiba\source\repos\KartOyunu\KartOyunu\obj\Debug\net6.0\KartOyunu.dll
+C:\Users\toshiba\source\repos\KartOyunu\KartOyunu\obj\Debug\net6.0\refint\KartOyunu.dll
+C:\Users\toshiba\source\repos\KartOyunu\KartOyunu\obj\Debug\net6.0\KartOyunu.pdb
+C:\Users\toshiba\source\repos\KartOyunu\KartOyunu\obj\Debug\net6.0\KartOyunu.genruntimeconfig.cache
+C:\Users\toshiba\source\repos\KartOyunu\KartOyunu\obj\Debug\net6.0\ref\KartOyunu.dll
+C:\Users\toshiba\Desktop\Gözde Nur Doğan_Odakgis\KartOyunu\KartOyunu\bin\Debug\net6.0\KartOyunu.exe
+C:\Users\toshiba\Desktop\Gözde Nur Doğan_Odakgis\KartOyunu\KartOyunu\bin\Debug\net6.0\KartOyunu.deps.json
+C:\Users\toshiba\Desktop\Gözde Nur Doğan_Odakgis\KartOyunu\KartOyunu\bin\Debug\net6.0\KartOyunu.runtimeconfig.json
+C:\Users\toshiba\Desktop\Gözde Nur Doğan_Odakgis\KartOyunu\KartOyunu\bin\Debug\net6.0\KartOyunu.dll
+C:\Users\toshiba\Desktop\Gözde Nur Doğan_Odakgis\KartOyunu\KartOyunu\bin\Debug\net6.0\KartOyunu.pdb
+C:\Users\toshiba\Desktop\Gözde Nur Doğan_Odakgis\KartOyunu\KartOyunu\obj\Debug\net6.0\KartOyunu.csproj.AssemblyReference.cache
+C:\Users\toshiba\Desktop\Gözde Nur Doğan_Odakgis\KartOyunu\KartOyunu\obj\Debug\net6.0\KartOyunu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toshiba\Desktop\Gözde Nur Doğan_Odakgis\KartOyunu\KartOyunu\obj\Debug\net6.0\KartOyunu.AssemblyInfoInputs.cache
+C:\Users\toshiba\Desktop\Gözde Nur Doğan_Odakgis\KartOyunu\KartOyunu\obj\Debug\net6.0\KartOyunu.AssemblyInfo.cs
+C:\Users\toshiba\Desktop\Gözde Nur Doğan_Odakgis\KartOyunu\KartOyunu\obj\Debug\net6.0\KartOyunu.csproj.CoreCompileInputs.cache
+C:\Users\toshiba\Desktop\Gözde Nur Doğan_Odakgis\KartOyunu\KartOyunu\obj\Debug\net6.0\KartOyunu.dll
+C:\Users\toshiba\Desktop\Gözde Nur Doğan_Odakgis\KartOyunu\KartOyunu\obj\Debug\net6.0\refint\KartOyunu.dll
+C:\Users\toshiba\Desktop\Gözde Nur Doğan_Odakgis\KartOyunu\KartOyunu\obj\Debug\net6.0\KartOyunu.pdb
+C:\Users\toshiba\Desktop\Gözde Nur Doğan_Odakgis\KartOyunu\KartOyunu\obj\Debug\net6.0\KartOyunu.genruntimeconfig.cache
+C:\Users\toshiba\Desktop\Gözde Nur Doğan_Odakgis\KartOyunu\KartOyunu\obj\Debug\net6.0\ref\KartOyunu.dll
